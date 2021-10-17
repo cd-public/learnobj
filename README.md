@@ -14,4 +14,5 @@
 * (2) How early should we introduce graphs/proofs. 
 	* Can do instead of hashing in DS and move hashing to Sys (applied) or Alg (theory) 
 	* I want graphs in DS (for double majors) but then we have to hash somewhere and don't have a required security course (where it is now).
-* (3) How do we address required high level topics, like shared memory, without lower level elective topics like MMUs and real/virtual memory.
+* (3) Do we address required high level topics, like shared memory, without lower elective topics like MMUs & real/virtual memory.
+	* I think students are doing better with underlying hardware than underlying math.
