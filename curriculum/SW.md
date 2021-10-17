@@ -2,7 +2,7 @@
 
 ### cd: High Level
 
-* Write a mobile app:
+* Write a mobile app that:
   * Interfaces with the OS
   * Uses an api.
   * Has a UI.
