@@ -2,7 +2,7 @@
 
 ## ALGORITHMS
 
-_cd: these are recurring high level topics that will see regulary coverage across CS1, DS, Alg_
+_cd: these are recurring high level topics that will see regular coverage across CS1, DS, Alg_
 
 ### Basic Analysis [2 hours]
 
