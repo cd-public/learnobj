@@ -10,6 +10,11 @@
   * Is developed with a partner or two.
   * Is documented.
 
+Stretch goal:
+
+ * That renders something.
+ * That collects and represents data.
+
 ## GRAPHICS AND VISUALIZATION
 
 ### Fundamental Concepts
