@@ -2,6 +2,7 @@
 
 ### cd: High Level
 
+* Use Github.
 * Write a mobile app that:
   * Interfaces with the OS
   * Uses an api.
