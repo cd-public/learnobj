@@ -1,5 +1,9 @@
 # CS1
 
+### cd: On Names
+
+I believe this should be Scientific Computing since it is covers topics of broad interest as a dual-use major/non-major course.
+
 ### cd: High Level
 
 * Use Python bool, int, str, and list.
@@ -7,6 +11,15 @@
 * Use public and private fields in a Python class.
 * Write a helper function.
 * Create an image file using pixels.
+
+### cd: vs Roberts
+
+I developed these goals independently then compared against Roberts' defined goals.
+
+* (+) COMPUTATIONAL SCIENCE
+  * My impression was modelling was touched on and could be easily covered in depth here.
+* (+) GRAPHICS AND VISUALIZATION
+  * I program Buddhabrot in CS1 which does 2, 3, 5
 
 ## COMPUTATIONAL SCIENCE 
 
