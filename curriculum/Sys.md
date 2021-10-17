@@ -3,6 +3,14 @@
 ### cd: On Names
 In support of naming and thematic consistency, and given my interest in introducing hardware topics in this coursework, I would like to call this Computer and Network Engineering  (or Intro thereof). Berkley uses Computer Engineering at the CS152 level.
 
+Alternatively, I'd like to Systems Programming and Software Programming.
+
+Per PSU an ABET CE degree offers:
+
+"a comprehensive background in computer engineering and offers an opportunity for specialization in the areas of digital electronics, VLSI circuit design and computer aided design, robotics, computer architecture, communication systems, and embedded microprocessor system design"
+
+A student completing this course would be prepared for electives in any of these topics.
+
 ### cd: High Level
 
 * Use the command line, including gdb, on Linux.
