@@ -1,7 +1,7 @@
-# Computing Systems
+# Systems
 
 ### cd: On Names
-In support of naming and thematic consistency, and given my interest in introducing hardware topics in this coursework, I would like to call this Computer and Network Engineering.
+In support of naming and thematic consistency, and given my interest in introducing hardware topics in this coursework, I would like to call this Computer and Network Engineering  (or Intro thereof).
 
 ### cd: High Level
 
