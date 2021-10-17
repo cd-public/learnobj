@@ -34,18 +34,17 @@ As a rule, I tried to prefix commentary with 'cd: ' and best effort description 
 ## cd: Proposed Names, Numbers
 
 "Science Sequence"
-CS151 Computer Science I
-CS152 Computer Science II
+* CS151 Computer Science I
+* CS152 Computer Science II
 
 "Theory Sequence"
-MATH251 *
-CS252 Algorithms
+* MATH251 *
+* CS252 Algorithms
 
 "Engineering Sequence"
-CS351 Computer (and Network) Engineering
-CS352 Software Engineering
-cd: Failing to reach engineering consensus:
-"Programming Sequence"
-CS351 Systems Programming
-CS352 Software Programming
+* CS351 Computer (and Network) Engineering
+* CS352 Software Engineering
+- OR - "Programming Sequence"
+* CS351 Systems Programming
+* CS352 Software Programming
 
