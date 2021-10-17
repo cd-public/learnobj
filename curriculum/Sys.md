@@ -1,5 +1,18 @@
 # All Courses
 
+### cd: High Level
+
+* Use the command line, including gdb, on Linux.
+* Send and receive packets between processes and systems using C.
+* Handle an exception in C.
+* Patch the kernel using C.
+* Decompile C on RISC.
+
+Stretch goals:
+
+* Implement a hashing standard, such as RSA.
+* Perform a privilege escalation attack on an OS.
+
 ## INFORMATION ASSURANCE AND SECURITY
 
 ### Foundational Concepts in Security [1 hour]
@@ -47,7 +60,6 @@ modeler, application developer, end-user). [Familiarity]
 
 ### Introduction [1.5 hours]
 
-
 1. Articulate the organization of the Internet. [Familiarity]
 2. List and define the appropriate network terminology. [Familiarity]
 3. Describe the layered structure of a typical networked architecture. [Familiarity]
@@ -87,14 +99,12 @@ operating systems. [Familiarity]
 
 ### Parallelism Fundamentals [2 hours]
 
-
 1. Distinguish using computational resources for a faster answer from managing efficient access to a shared
 resource. [Familiarity]
 2. Distinguish multiple sufficient programming constructs for synchronization that may be interimplementable but have complementary advantages. [Familiarity]
 3. Distinguish data races from higher level races. [Familiarity]
 
 ### Parallel Decomposition [1 hour]
-
 
 1. Explain why synchronization is necessary in a specific parallel program. [Usage]
 2. Identify opportunities to partition a serial program into independent parallel modules. [Familiarity]
