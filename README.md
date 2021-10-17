@@ -1,6 +1,6 @@
 # CS2013 Learning Objectives @ Willamette
 
-Developed using the methodology used by Roberts:
+Developed using the methodology demonstrated by Roberts:
 https://willamette.edu/~esroberts/ACM-CS2013/
 
 CS1 objectives lifted from Roberts with two proposals, all others developed independently then cross-referenced.
