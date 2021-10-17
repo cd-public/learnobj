@@ -30,3 +30,22 @@ As a rule, I tried to prefix commentary with 'cd: ' and best effort description 
 * (4) Do we need to look at Tier 2 & Elective or learning objectives from other sources?
 * (5) Should we understand CS2013 as about education, job placement, or something else?
 	* I struggled to make sense of what I felt were contradictory design choices in topics coverage.
+
+## cd: Proposed Names, Numbers
+
+"Science Sequence"
+CS151 Computer Science I
+CS152 Computer Science II
+
+"Theory Sequence"
+MATH251 *
+CS252 Algorithms
+
+"Engineering Sequence"
+CS351 Computer (and Network) Engineering
+CS352 Software Engineering
+cd: Failing to reach engineering consensus:
+"Programming Sequence"
+CS351 Systems Programming
+CS352 Software Programming
+
