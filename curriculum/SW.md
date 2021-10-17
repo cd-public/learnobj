@@ -18,23 +18,22 @@ Stretch goal:
 
 ### cd: vs Roberts
 
-* (+) GRAPHICS AND VISUALIZATION: Fundamental Concepts
+* (+) GRAPHICS AND VISUALIZATION
   * Necessary for a UI
-* (+) INFORMATION MANAGEMENT: Information Management Systems
-  * Necessary for partner/group work..
-* (+) OPERATING SYSTEMS: Operating System Principles
+* (+) INFORMATION MANAGEMENT
+  * Necessary for partner/group work.
+* (+) OPERATING SYSTEMS
   * Necessary to interface with OS.
-* (+) PROGRAMMING LANGUAGES: Basic Type Systems, Topics [1, 6]/4
+* (+) PROGRAMMING LANGUAGES
   * Necessary for using Java.
 * (-) SOFTWARE ENGINEERING: Tools and Environments
   * Not considered as not Tier 1
   * Intend to move Github to DS or CS1
 * (+) SOFTWARE ENGINEERING: Software Design
   * Necessary to review.
-* (+) SYSTEM FUNDAMENTALS: Cross-Layer Communications:
+* (+) SYSTEM FUNDAMENTALS:
   * Necessary to interface with OS.
-* (+) SYSTEM FUNDAMENTALS:  State and State Machines, Topics [3, 6]
-  * Teaching technique intended for app/UI design.
+  * Teaching techniques intended for app/UI design.
 
 
 ## GRAPHICS AND VISUALIZATION
