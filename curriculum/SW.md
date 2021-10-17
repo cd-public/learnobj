@@ -94,8 +94,6 @@ run. [Familiarity]
 
 ## SOFTWARE DEVELOPMENT FUNDAMENTALS
 
-### Algorithms and Design [11 hours]
-
 ### Development Methods [10 hours]
 
 1. Trace the execution of a variety of code segments and write summaries of their computations. [Assessment]
