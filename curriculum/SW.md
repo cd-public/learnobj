@@ -12,6 +12,7 @@
 
 Stretch goal:
 
+* The app:
  * That renders something.
  * That collects and represents data.
 
