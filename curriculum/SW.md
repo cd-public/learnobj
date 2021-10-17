@@ -69,8 +69,6 @@ how to handle an exception. [Usage]
 
 ### Operating System Principles
 
-__cd: 1-7 in SW__
-
 1. Explain the concept of a logical layer. [Familiarity]
 2. Explain the benefits of building abstract layers in hierarchical fashion. [Familiarity]
 3. Describe the value of APIs and middleware. [Assessment]
