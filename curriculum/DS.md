@@ -1,5 +1,19 @@
 # Data Structures ("CS2")
 
+### cd: High Level
+
+* Implement and use a recursive data structure and its methods, including traversal.
+* Evaluate comparative performance of structures using big O and worst/average case.
+* Implement and use a hash function.
+* Understand and apply boolean algebra. 
+* Differentiate data, functions, and structures.
+
+Stretch goals:
+
+* Include graphs
+* Introduce proofs.
+* Formally cover error handling.
+
 ## ALGORITHMS
 
 ### Basic Analysis [2 hours]
