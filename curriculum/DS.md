@@ -201,7 +201,7 @@ stacks, queues, sets, and maps. [Usage]
 
 ### Development Methods [10 hours]
 
-__cd: Contracts were not a focus this semester but should have been, may also do 12. program style__
+_cd: Contracts were not a focus this semester but should have been, may also do 12. program style_
 
 6. Describe how a contract can be used to specify the behavior of a program component. [Familiarity]
 7. Refactor a program by identifying opportunities to apply procedural abstraction. [Usage]
