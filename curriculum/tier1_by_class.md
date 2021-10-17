@@ -1,4 +1,4 @@
-# ALGORITHMS
+## ALGORITHMS
 
 _cd: these are recurring high level topics that will see regulary coverage across CS1, DS, Alg_
 
@@ -16,7 +16,7 @@ assumptions that lead to different behaviors. [Assessment]
 Run algorithms on input of various sizes and compare performance. [Assessment]
 7. Give examples that illustrate time-space trade-offs of algorithms. [Familiarity]
 
-## Algorithmic Strategies [5 hours]
+### Algorithmic Strategies [5 hours]
 
 __cd: 1-6 in Alg__
 
@@ -29,7 +29,7 @@ optimal solution. [Assessment]
 5. Use dynamic programming to solve an appropriate problem. [Usage]
 6. Determine an appropriate algorithmic approach to a problem. [Assessment]
 
-## Fundamental Data Structures and Algorithms [9 hours]
+### Fundamental Data Structures and Algorithms [9 hours]
 
 __cd: 1-7, 9 in DS; 1-9 in Alg__
 
@@ -47,7 +47,7 @@ programming time, maintainability, and the use of application-specific patterns 
 9. Demonstrate the ability to evaluate algorithms, to select from a range of possible options, to provide
 justification for that selection, and to implement the algorithm in a particular context. [Assessment]
 
-## Basic Automata Computability and Complexity [3 hours]
+### Basic Automata Computability and Complexity [3 hours]
 
 __cd: 1-4 in Alg__
 
@@ -56,16 +56,16 @@ __cd: 1-4 in Alg__
 3. Generate a regular expression to represent a specified language. [Usage]
 4. Explain why the halting problem has no algorithmic solution. [Familiarity]
 
-# ARCHITECTURE AND ORGANIZATION [0 hours]
+## ARCHITECTURE AND ORGANIZATION [0 hours]
 
 _cd: my electives here, this becomes mandatory with an engineering school (+ will require an EECS hire I suspect)_
 
-# COMPUTATIONAL SCIENCE 
+## COMPUTATIONAL SCIENCE 
 
 _cd: I think Haiyan's electives mostly sit here so we'll have strong coverage in any case._
 _cd: These are not listed as CS1 learning objectives but I suspect we would find them there, with 3 maybe in M251_
 
-## Introduction to Modeling and Simulation [1 hours]
+### Introduction to Modeling and Simulation [1 hours]
 
 __cd: 1-6 in CS1; 1-6 in Alg__
 
@@ -80,11 +80,11 @@ simulations, and virtual reality. [Familiarity]
 5. Describe several approaches to validating models. [Familiarity]
 6. Create a simple display of the results of a simulation. [Usage]
 
-# DISCRETE STRUCTURES
+## DISCRETE STRUCTURES
 
 _cd: this is basically all in M251 and we have strong coverage in DS/Alg_
 
-## Sets, Relations, and Functions [4 hours]
+### Sets, Relations, and Functions [4 hours]
 
 __cd: Functions and relations in DS; 1-3 in M251__
 
@@ -93,9 +93,9 @@ __cd: Functions and relations in DS; 1-3 in M251__
 3. Relate practical examples to the appropriate set, function, or relation model, and interpret the associated
 operations and terminology in context. [Assessment]
 
-Basic Logic [9 hours]
+### Basic Logic [9 hours]
 
-cd: 1-2, 4 in DS; 1-6 in M251
+__cd: 1-2, 4 in DS; 1-6 in M251__
 
 1. Convert logical statements from informal language to propositional and predicate logic expressions.
 [Usage]
@@ -109,9 +109,9 @@ algorithms. [Usage]
 predicting the behavior of software or solving problems such as puzzles. [Usage]
 6. Describe the strengths and limitations of propositional and predicate logic. [Familiarity]
 
-Proof Techniques [10 hours]
+### Proof Techniques [10 hours]
 
-cd: 1-6 in M251; 5 in DS; 1-6 in Alg
+__cd: 1-6 in M251; 5 in DS; 1-6 in Alg__
 
 1. Identify the proof technique used in a given proof. [Familiarity]
 2. Outline the basic structure of each proof technique (direct proof, proof by contradiction, and induction)
@@ -124,9 +124,9 @@ defined structures. [Assessment]
 6. Explain the relationship between weak and strong induction and give examples of the appropriate use of
 each. [Assessment]
 
-Basics of Counting [5 hours]
+### Basics of Counting [5 hours]
 
-cd: 1-7 in M251; 5-7 in DS; 1-7 in Alg
+__cd: 1-7 in M251; 5-7 in DS; 1-7 in Alg__
 
 1. Apply counting arguments, including sum and product rules, inclusion-exclusion principle and
 arithmetic/geometric progressions. [Usage]
@@ -140,9 +140,9 @@ to determine certain hands in cards (e.g., a full house). [Usage]
 6. Analyze a problem to determine underlying recurrence relations. [Usage]
 7. Perform computations involving modular arithmetic. [Usage]
 
-Graphs and Trees [3 hours]
+### Graphs and Trees [3 hours]
 
-cd: 1-4 in Alg, 1-4 for trees in DS; 1 in M251
+__cd: 1-4 in Alg; 1-4 for trees in DS; 1 in M251__
 
 1. Illustrate by example the basic terminology of graph theory, as well as some of the properties and special
 cases of each type of graph/tree. [Familiarity]
@@ -153,9 +153,9 @@ such as representing a network topology or the organization of a hierarchical fi
 4. Show how concepts from graphs and trees appear in data structures, algorithms, proof techniques
 (structural induction), and counting. [Usage]
 
-Discrete Probability [6 hours]
+### Discrete Probability [6 hours]
 
-cd: 1-5 in M251; 5 in DS; 5 in Alg
+__cd: 1-5 in M251; 5 in DS; 5 in Alg__
 
 1. Calculate probabilities of events and expectations of random variables for elementary problems such as
 games of chance. [Usage]
@@ -165,13 +165,13 @@ games of chance. [Usage]
 5. Apply the tools of probability to solve problems such as the average case analysis of algorithms or
 analyzing hashing. [Usage]
 
-GRAPHICS AND VISUALIZATION
+## GRAPHICS AND VISUALIZATION
 
-cd: Ballpark 90% of our students want a game design, serious games, or gamification course elective here and in HCI
+_cd: Ballpark 90% of our students want a game design, serious games, or gamification course elective here and in HCI_
 
-Fundamental Concepts
+### Fundamental Concepts
 
-cd: 2-3, 5 in cd@[elon,unc].CS1; 1, 4 in SW
+__cd: 2-3, 5 in cd@[elon,unc].CS1; 1, 4 in SW__
 
 1. Identify common uses of digital presentation to humans (e.g., computer graphics, sound). [Familiarity]
 2. Explain in general terms how analog signals can be reasonably represented by discrete samples, for
@@ -182,15 +182,15 @@ signals. [Familiarity]
 5. Describe the differences between lossy and lossless image compression techniques, for example as
 reflected in common graphics image file formats such as JPG, PNG, MP3, MP4, and GIF. [Familiarity]
 
-HUMAN COMPUTER INTERACTION
+## HUMAN COMPUTER INTERACTION
 
-cd: Ballpark 90% of our students want a game design, serious games, or gamification course elective here and in GV.
-cd: We could do games for SW but I am anti-games requirement for accessibility reasons.
-cd: There's a security mention here.
+_cd: Ballpark 90% of our students want a game design, serious games, or gamification course elective here and in GV._
+_cd: We could do games for SW but I am anti-games requirement for accessibility reasons._
+_cd: There's a security mention here._
 
-Foundations
+### Foundations
 
-cd: 1-5 in SW
+__cd: 1-5 in SW__
 
 1. Discuss why human-centered software development is important. [Familiarity]
 2. Summarize the basic precepts of psychological and social interaction. [Familiarity]
@@ -200,13 +200,13 @@ conceptual model, feedback, and so forth. [Usage]
 developer or their acquaintances. [Usage]
 5. Create and conduct a simple usability test for an existing software application. [Assessment]
 
-INFORMATION ASSURANCE AND SECURITY
+## INFORMATION ASSURANCE AND SECURITY
 
-cd: These need to be embedded in our engineering sequence, but I don't want to put them all in SW rather than networks.
+_cd: These need to be embedded in our engineering sequence, but I don't want to put them all in SW rather than networks._
 
-Foundational Concepts in Security [1 hour]
+### Foundational Concepts in Security [1 hour]
 
-cd: 1-5 in Sys
+__cd: 1-5 in Sys__
 
 1. Analyze the tradeoffs of balancing key security properties (Confidentiality, Integrity, and Availability).
 [Usage]
@@ -217,9 +217,9 @@ such thing as perfect security). [Familiarity]
 5. Describe important ethical issues to consider in computer security, including ethical issues associated with
 fixing or not fixing vulnerabilities and disclosing or not disclosing vulnerabilities. [Familiarity]
 
-Principles of Secure Design [1 hour]
+### Principles of Secure Design [1 hour]
 
-cd: 1-7 in SW, 3-5, 7 in Sys
+__cd: 1-7 in SW; 3-5, 7 in Sys__
 
 1. Describe the principle of least privilege and isolation as applied to system design. [Familiarity]
 2. Summarize the principle of fail-safe and deny-by-default. [Familiarity]
@@ -230,9 +230,9 @@ cd: 1-7 in SW, 3-5, 7 in Sys
 [Familiarity]
 7. Describe the cost and tradeoffs associated with designing security into a product. [Familiarity]
 
-Defensive Programming [1 hour]
+### Defensive Programming [1 hour]
 
-cd: 1-3, 5 in DS; 1-5 in SW, 1-5 in Sys
+__cd: 1-3, 5 in DS; 1-5 in SW; 1-5 in Sys__
 
 1. Explain why input validation and data sanitization is necessary in the face of adversarial control of the
 input channel. [Familiarity]
@@ -243,13 +243,13 @@ unsafe programming language like C/C++. [Familiarity]
 how to handle an exception. [Usage]
 5. Demonstrate the identification and graceful handling of error conditions. [Usage]
 
-INFORMATION MANAGEMENT
+## INFORMATION MANAGEMENT
 
-cd: This is down as in ethics but will have to be covered in SW/Sys. We need a databases elective.
+_cd: This is down as in ethics but will have to be covered in SW/Sys. We need a databases elective._
 
-Information Management Concepts [1 hour]
+### Information Management Concepts [1 hour]
 
-cd: 1-6 in Ethics, 1, 6 in SW, 1-6 in Sys
+__cd: 1-6 in Ethics; 1, 6 in SW; 1-6 in Sys__
 
 1. Describe how humans gain access to information and data to support their needs. [Familiarity]
 2. Describe the advantages and disadvantages of central organizational control over data. [Assessment]
@@ -259,34 +259,34 @@ modeler, application developer, end-user). [Familiarity]
 5. Demonstrate uses of explicitly stored metadata/schema associated with data. [Usage]
 6. Identify issues of data persistence for an organization. [Familiarity]
 
-NETWORKING AND COMMUNICATION
+## NETWORKING AND COMMUNICATION
 
-cd: trivially in Sys
+__cd: trivially in Sys__
 
-Introduction [1.5 hours]
+### Introduction [1.5 hours]
 
-cd: 1-4 in Sys
+__cd: 1-4 in Sys__
 
 1. Articulate the organization of the Internet. [Familiarity]
 2. List and define the appropriate network terminology. [Familiarity]
 3. Describe the layered structure of a typical networked architecture. [Familiarity]
 4. Identify the different types of complexity in a network (edges, core, etc.). [Familiarity]
 
-Networked Applications [1.5 hours]
+### Networked Applications [1.5 hours]
 
-cd: 1-3 in Sys
+__cd: 1-3 in Sys__
 
 1. List the differences and the relations between names and addresses in a network. [Familiarity]
 2. Define the principles behind naming schemes and resource location. [Familiarity]
 3. Implement a simple client-server socket-based application. [Usage]
 
-OPERATING SYSTEMS [4 hours]
+## OPERATING SYSTEMS [4 hours]
 
-cd: trivially in Sys
+_cd: trivially in Sys_
 
-Overview of Operating Systems
+### Overview of Operating Systems
 
-cd: 1-5 in Sys
+__cd: 1-5 in Sys__
 
 1. Explain the objectives and functions of modern operating systems. [Familiarity]
 2. Analyze the tradeoffs inherent in operating system design. [Usage]
@@ -297,9 +297,9 @@ operating systems. [Familiarity]
 5. Identify potential threats to operating systems and the security features design to guard against them.
 [Familiarity]
 
-Operating System Principles
+### Operating System Principles
 
-cd: 1-7 in SW
+__cd: 1-7 in SW__
 
 1. Explain the concept of a logical layer. [Familiarity]
 2. Explain the benefits of building abstract layers in hierarchical fashion. [Familiarity]
@@ -310,49 +310,49 @@ cd: 1-7 in SW
 6. Discuss the advantages and disadvantages of using interrupt processing. [Familiarity]
 7. Explain the use of a device list and driver I/O queue. [Familiarity]
 
-PARALLEL AND DISTRIBUTED COMPUTING
+## PARALLEL AND DISTRIBUTED COMPUTING
 
-cd: This is just networks but also contains the only required architecture topics which is VERY odd.
+_cd: This is just networks._
 
-Parallelism Fundamentals [2 hours]
+### Parallelism Fundamentals [2 hours]
 
-cd: 1-3 in Sys
+__cd: 1-3 in Sys__
 
 1. Distinguish using computational resources for a faster answer from managing efficient access to a shared
 resource. [Familiarity]
 2. Distinguish multiple sufficient programming constructs for synchronization that may be interimplementable but have complementary advantages. [Familiarity]
 3. Distinguish data races from higher level races. [Familiarity]
 
-Parallel Decomposition [1 hour]
+### Parallel Decomposition [1 hour]
 
-cd: 1-2 in Sys
+__cd: 1-2 in Sys__
 
 1. Explain why synchronization is necessary in a specific parallel program. [Usage]
 2. Identify opportunities to partition a serial program into independent parallel modules. [Familiarity]
 
-Communication and Coordination [1 hour]
+### Communication and Coordination [1 hour]
 
-cd: 1-2 in Sys
+__cd: 1-2 in Sys__
 
 1. Use mutual exclusion to avoid a given race condition. [Usage]
 2. Give an example of an ordering of accesses among concurrent activities (e.g., program with a data race)
 that is not sequentially consistent. [Familiarity]
 
-Parallel Architecture [1 hour]
+### Parallel Architecture [1 hour]
 
-cd: 1 in Sys
+__cd: 1 in Sys__
 
 1. Explain the differences between shared and distributed memory. [Familiarity]
 
-PROGRAMMING LANGUAGES
+## PROGRAMMING LANGUAGES
 
-cd: This looks more like a Java CS1 syllabus than the topic of languages. 
-	re this, See Joel: https://www.joelonsoftware.com/2005/12/29/the-perils-of-javaschools-2/
-cd: Having 3 host languages in the 4 coding courses, as currently planned, will go a long way here.
+_cd: This looks more like a Java CS1 syllabus than the topic of languages._ 
+	_re this, See Joel: https://www.joelonsoftware.com/2005/12/29/the-perils-of-javaschools-2/_
+_cd: Having 3 host languages in the 4 coding courses, as currently planned, will go a long way here._
 
-Object-Oriented Programming [4 hours]
+### Object-Oriented Programming [4 hours]
 
-cd: 1-3 in CS1; 1-4 in DS; 3 in Sys
+__cd: 1-3 in CS1; 1-4 in DS; 3 in Sys__
 
 1. Design and implement a class. [Usage]
 2. Use subclassing to design simple class hierarchies that allow code to be reused for distinct subclasses.
@@ -363,17 +363,17 @@ the function body providing a case for each data variant) and (2) the object-ori
 class for each data variant with the class definition providing a method for each operation). Understand
 both as defining a matrix of operations and variants. [Assessment]
 
-Functional Programming [3 hours]
+### Functional Programming [3 hours]
 
-cd: 1-3 in CS1; 1-3 in DS
+__cd: 1-3 in CS1; 1-3 in DS__
 
 1. Write basic algorithms that avoid assigning to mutable state or considering reference equality. [Usage]
 2. Write useful functions that take and return other functions. [Usage]
 3. OOP.4
 
-Basic Type Systems [1 hour]
+### Basic Type Systems [1 hour]
 
-cd: 1-3 in CS1; 1, 3, 5-6 in DS; 1-6 in Sys; 1-6 in SW
+__cd: 1-3 in CS1; 1, 3, 5-6 in DS; 1-6 in Sys; 1-6 in SW__
 
 1. For both a primitive and a compound type, informally describe the values that have that type. [Familiarity]
 2. For a language with a static type system, describe the operations that are forbidden statically, such as
@@ -385,15 +385,15 @@ properties checked dynamically. [Usage]
 run. [Familiarity]
 6. Use types and type-error messages to write and debug programs. [Usage]
 
-SOFTWARE DEVELOPMENT FUNDAMENTALS
+## SOFTWARE DEVELOPMENT FUNDAMENTALS
 
-cd: I don't understand this category. It feels like things that should be distributed above.
-cd: Development methods alone touches on, in my view, at least four distinct concepts with total separation.
-cd: With ~none of these landing in SW I'm renewing my call for SW to be Engineering not Development
+_cd: I don't understand this category. It feels like things that should be distributed above._
+_cd: Development methods alone touches on, in my view, at least four distinct concepts with total separation._
+_cd: With ~none of these landing in SW I'm renewing my call for SW to be Engineering not Development_
 
-Algorithms and Design [11 hours]
+### Algorithms and Design [11 hours]
 
-cd: 1-11 in CS1; 1-11 in DS; 1-4, 7, 11 in Alg
+__cd: 1-11 in CS1; 1-11 in DS; 1-4, 7, 11 in Alg__
 
 1. Discuss the importance of algorithms in the problem-solving process. [Familiarity]
 2. Discuss how a problem may be solved by multiple algorithms, each with different properties. [Familiarity]
@@ -409,9 +409,9 @@ cd: 1-11 in CS1; 1-11 in DS; 1-4, 7, 11 in Alg
 11. Identify the relative strengths and weaknesses among multiple designs or implementations for a problem.
 [Assessment]
 
-Fundamental Programming Concepts [10 hours]
+### Fundamental Programming Concepts [10 hours]
 
-cd: 1-9 in CS1; 1-5, 7-9 in DS; 6 in Sys; 2, 8-9 in Alg
+__cd: 1-9 in CS1; 1-5, 7-9 in DS; 6 in Sys; 2, 8-9 in Alg__
 
 1. Analyze and explain the behavior of simple programs involving the fundamental programming
 constructs variables, expressions, assignments, I/O, control constructs, functions, parameter passing,
@@ -428,9 +428,9 @@ the definition of functions, and parameter passing. [Usage]
 8. Describe the concept of recursion and give examples of its use. [Familiarity]
 9. Identify the base case and the general case of a recursively-defined problem. [Assessment]
 
-Fundamental Data Structures [12 hours]
+### Fundamental Data Structures [12 hours]
 
-cd: 1-3 in CS1; 1-7 in DS; 2, 4, 7 in Alg
+__cd: 1-3 in CS1; 1-7 in DS; 2, 4, 7 in Alg__
 
 1. Discuss the appropriate use of built-in data structures. [Familiarity]
 2. Describe common applications for each of the following data structures: stack, queue, priority queue, set,
@@ -443,9 +443,9 @@ stacks, queues, sets, and maps. [Usage]
 [Assessment]
 7. Choose the appropriate data structure for modeling a given problem. [Assessment]
 
-Development Methods [10 hours]
+### Development Methods [10 hours]
 
-cd: 3, 7-8, 11-12 in CS1; 1, 6-8 in DS; 1-2, 4-12 in SW; 1-3, 8-10 in Sys
+__cd: 3, 7-8, 11-12 in CS1; 1, 6-8 in DS; 1-2, 4-12 in SW; 1-3, 8-10 in Sys__
 
 1. Trace the execution of a variety of code segments and write summaries of their computations. [Assessment]
 2. Explain why the creation of correct program components is important in the production of high-quality
@@ -467,13 +467,13 @@ standards. [Assessment]
 12. Apply consistent documentation and program style standards that contribute to the readability and
 maintainability of software. [Usage]
 
-SOFTWARE ENGINEERING
+## SOFTWARE ENGINEERING
 
-cd: This is the topic set intended for coverage in SW
+_cd: This is the topic set intended for coverage in SW_
 
-Software Processes [2 hours]
+### Software Processes [2 hours]
 
-cd: 1, 5 in Sys; 1-5 in SW
+__cd: 1, 5 in Sys; 1-5 in SW__
 
 1. Describe how software can interact with and participate in various systems including information
 management, embedded, process control, and communications systems. [Familiarity]
@@ -484,9 +484,9 @@ iterative, and agile). [Familiarity]
 5. Describe how programming in the large differs from individual efforts with respect to understanding a large
 code base, code reading, understanding builds, and understanding context of changes. [Familiarity]
 
-Requirements Engineering [1 hour]
+### Requirements Engineering [1 hour]
 
-cd: 1-3 in SW
+__cd: 1-3 in SW__
 
 1. List the key components of a use case or similar description of some behavior that is required for a system.
 [Familiarity]
@@ -494,9 +494,9 @@ cd: 1-3 in SW
 requirements. [Familiarity]
 3. Interpret a given requirements model for a simple software system. [Familiarity]
 
-Software Design [3 hours]
+### Software Design [3 hours]
 
-cd: 1-4 in CS1; 1-4 in DS; 1-4 in SW
+__cd: 1-4 in CS1; 1-4 in DS; 1-4 in SW__
 
 1. Articulate design principles including separation of concerns, information hiding, coupling and cohesion,
 and encapsulation. [Familiarity]
@@ -507,13 +507,13 @@ design it. [Usage]
 4. Within the context of a single design paradigm, describe one or more design patterns that could be
 applicable to the design of a simple software system. [Familiarity]
 
-SYSTEM FUNDAMENTALS
+## SYSTEM FUNDAMENTALS
 
-cd: These aren't cleanly separable into Sys and SW since Sys will describe and SW will use.
+_cd: These aren't cleanly separable into Sys and SW since Sys will create and SW will use._
 
-Computational Paradigms [3 hours]
+### Computational Paradigms [3 hours]
 
-cd: 1-8 in Sys
+__cd: 1-8 in Sys__
 
 1. List commonly encountered patterns of how computations are organized. [Familiarity]
 2. Describe the basic building blocks of computers and their role in the historical development of computer
@@ -530,9 +530,9 @@ scale of resources to solve the problem. This can be motivated by the simple, re
 8. Evaluate performance of simple sequential and parallel versions of a program with different problem sizes,
 and be able to describe the speed-ups achieved. [Assessment]
 
-Cross-Layer Communications [3 hours]
+### Cross-Layer Communications [3 hours]
 
-cd: 1-4 in DS; 1-5 in SW; 1-5 in Sys
+__cd: 1-4 in DS; 1-5 in SW; 1-5 in Sys__
 
 1. Describe how computing systems are constructed of layers upon layers, based on separation of concerns,
 with well-defined interfaces, hiding details of low layers from the higher layers. [Familiarity]
@@ -544,9 +544,9 @@ with well-defined interfaces, hiding details of low layers from the higher layer
 status across layers. [Usage]
 5. Find bugs in a layered program by using tools for program tracing, single stepping, and debugging. [Usage]
 
-State and State Machines [6 hours]
+### State and State Machines [6 hours]
 
-cd: 1-2 in DS, 1-6 in Sys, 3-6 in SW
+__cd: 1-2 in DS, 1-6 in Sys, 3-6 in SW__
 
 1. Describe computations as a system characyterized by a known set of configurations with transitions from
 one unique configuration (state) to another (state). [Familiarity]
@@ -559,9 +559,9 @@ representations for the same computation can exist. [Familiarity]
 pattern recognizers). [Usage]
 6. Derive time-series behavior of a state machine from its state machine representation. [Assessment]
 
-Parallelism [3 hours]
+### Parallelism [3 hours]
 
-cd: 1-6 in Sys
+__cd: 1-6 in Sys__
 
 1. For a given program, distinguish between its sequential and parallel execution, and the performance
 implications thereof. [Familiarity]
@@ -579,23 +579,23 @@ processing through message passing). [Usage]
 6. Use performance tools to measure speed-up achieved by parallel programs in terms of both problem size
 and number of resources. [Assessment]
 
-Evaluation [3 hours]
+### Evaluation [3 hours]
 
-cd: 1-4 in Sys
+__cd: 1-4 in Sys__
 
 1. Explain how the components of system architecture contribute to improving its performance. [Familiarity]
 2. Describe Amdahl’s law and discuss its limitations. [Familiarity]
 3. Design and conduct a performance-oriented experiment. [Usage]
 4. Use software tools to profile and measure program performance. [Assessment]
 
-SOCIAL ISSUES AND PROFESSIONAL PRACTICE
+## SOCIAL ISSUES AND PROFESSIONAL PRACTICE
 
-cd: I remain convinced this should be not be taught in-house.
-cd: This all would've been covered by 451: Computer Security.
+_cd: I remain convinced this should be not be taught in-house._
+_cd: This all would've been covered by 451: Computer Security._
 
 * [11 hours]
 
-cd: * in Ethics
+__cd: * in Ethics__
 
 
 
