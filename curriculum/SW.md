@@ -2,7 +2,7 @@
 
 ### cd: On Names
 
-I believe this should be Software Engineering as many core learning objectives are specific to this field per the ACM whereas software development is distributed throughout the major, especially into Sys.
+I believe this should be Software Engineering  (or Intro thereof) as many core learning objectives are specific to this field per the ACM whereas software development is distributed throughout the major, especially into Sys.
 
 ### cd: High Level
 
