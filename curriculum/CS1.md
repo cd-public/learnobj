@@ -4,6 +4,8 @@
 
 ### Introduction to Modeling and Simulation [1 hours]
 
+_cd: added this one_
+
 1. Explain the concept of modeling and the use of abstraction that allows the use of a machine to solve a
 problem. [Familiarity]
 2. Describe the relationship between modeling and simulation, i.e., thinking of simulation as dynamic
