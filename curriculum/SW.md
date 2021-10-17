@@ -13,8 +13,8 @@
 Stretch goal:
 
 * The app:
- * That renders something.
- * That collects and represents data.
+  * That renders something.
+  * That collects and represents data.
 
 ## GRAPHICS AND VISUALIZATION
 
