@@ -1,4 +1,4 @@
-# CS2013 Learning Objectives
+# CS2013 Learning Objectives @ Willamette
 
 ## Courses
 * CS1/DS (= Computer Science 1, Data Structures = Intro Sequence)
