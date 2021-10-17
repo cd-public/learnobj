@@ -2,7 +2,6 @@
 
 ### cd: High Level
 
-_cd: This is mostly from looking at book chapters with HC and seeing what students are working on.
 
 * Write proofs using induction, recurrence.
 * Formalize Big O in proofs.
@@ -12,7 +11,15 @@ _cd: This is mostly from looking at book chapters with HC and seeing what studen
 
 ### cd: vs Roberts
 
+I developed these goals independently then compared against Roberts' defined goals. For Alg, this is mostly from looking at book chapters with HC and seeing what students are working on.
 
+* (+) Basic Automata Computability and Complexity 1, 2, 4
+  * Used in complexity proofs seen on Discord.
+* (+) Introduction to Modeling and Simulation
+  * Used in presentation of results debugged on Discord.
+* (+) DISCRETE STRUCTURES/Graphs and Trees
+  * Proof techniques seen in Discord.
+  * Counting covered in relevant CLRS Chapters. 
 
 ## ALGORITHMS
 
