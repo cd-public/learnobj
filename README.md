@@ -1,10 +1,10 @@
 # CS2013 Learning Objectives
 
 ## Courses
-* CS1/DS (Intro Sequence)
-* SW/Sys (Engineering Sequence)
-* M251/Alg (Theory Sequence)
-* Ethics (Writing)
+* CS1/DS (= Computer Science 1, Data Structures = Intro Sequence)
+* SW/Sys (= Software, Systems = Engineering Sequence)
+* M251/Alg (= MATH 251, CLRS Algorithms = Theory Sequence)
+* Ethics (= DATA XXX = Writing)
 
 ## cd: Discussion questions
 * (1) How much should we tailor coverage to this? 
