@@ -7,7 +7,7 @@ CS1 objectives lifted from Roberts with two proposals, all others developed inde
 
 ## Curriculum
 
-Curriculum directory contains an "all" and one file for each in-major non-ethics course in the proposed 7 course core that I conceptual organize in 3 two course sequences.
+Curriculum directory contains an "all" and one file for each in-major non-ethics course in the proposed 7 course core that I conceptual organize in 3 two course sequences. Since names are a bit in flux, they are used here as:
 * CS1/DS (= Computer Science 1, Data Structures = Intro Sequence)
 * SW/Sys (= Software, Systems = Engineering Sequence)
 * M251/Alg (= MATH 251, CLRS Algorithms = Theory Sequence)
