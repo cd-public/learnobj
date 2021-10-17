@@ -10,7 +10,7 @@
 
 Stretch goals:
 
-* Include graphs
+* Include graphs.
 * Introduce proofs.
 * Formally cover error handling.
 
