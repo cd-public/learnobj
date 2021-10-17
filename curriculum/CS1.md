@@ -2,7 +2,7 @@
 
 ### cd: On Names
 
-As a dual-use major/non-major course covering topics of broad interest specifically in Python, I believe this should be Scientific Computing (or Intro thereof).
+As a dual-use major/non-major course covering topics of broad interest specifically in Python, I believe this might be most accurately described be Scientific Computing (or Intro thereof).
 
 ### cd: High Level
 
