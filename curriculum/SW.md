@@ -18,6 +18,8 @@ Stretch goal:
 
 ### cd: vs Roberts
 
+I developed these goals independently then compared against Roberts' defined goals.
+
 * (+) GRAPHICS AND VISUALIZATION
   * Necessary for a UI
 * (+) INFORMATION MANAGEMENT
