@@ -1,5 +1,13 @@
 # CS1
 
+### cd: High Level
+
+* Use Python bool, int, str, and list.
+* Write a function in Python with nested conditions and/or loops.
+* Use public and private fields in a Python class.
+* Write a helper function.
+* Create an image file using pixels.
+
 ## COMPUTATIONAL SCIENCE 
 
 ### Introduction to Modeling and Simulation [1 hours]
