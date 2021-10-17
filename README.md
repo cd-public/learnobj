@@ -16,3 +16,4 @@
 	* I want graphs in DS (for double majors) but then we have to hash somewhere and don't have a required security course (where it is now).
 * (3) Do we address required high level topics, like shared memory, without lower elective topics like MMUs & real/virtual memory.
 	* I think students are doing better with underlying hardware than underlying math.
+* (4) Do we need to look at Tier 2 & Elective or learning objectives from other sources?
