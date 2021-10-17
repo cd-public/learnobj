@@ -1,5 +1,11 @@
 # Data Structures ("CS2")
 
+### cd: On Names
+
+This is data structures because I was told to teach data structures and this is what I think a data structures course would be. Does our CS2 have to be data structures? No. Should it contain the word "data" in the name, which will be a comms issue with a Data Science? Absolutely not. Do I have a better idea? Not really. CS1/CS2 is better than what we have now though. 
+
+Chicago does Computer Science I, Computer Science II, Computer Systems all at 100 level with Software at 200 level but required electives in Systems topics at 200 level (Bx) or 300 (BxMS). CU Boulder does the same but II and Sys are at 200 level with systems electives at 300 and 400 level. Elon does CS1, CS2, Organization and Architecture. This is similar to Chicago - The Computer Systems course at UChicago is the former Computer Architecture course developed in 2014 that displaced an earlier version of Computer Systems because teaching it at that abstraction level seemed to work pretty well.
+
 ### cd: High Level
 
 * Implement and use a recursive data structure and its methods, including traversal.
