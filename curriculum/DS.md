@@ -86,7 +86,7 @@ analyzing hashing. [Usage]
 
 ### Defensive Programming [1 hour]
 
-_cd: could add 4. Exceptions but not currently covering_
+_cd: could add 5. Exceptions but not currently covering, prefer in OS module of Sys_
 
 1. Explain why input validation and data sanitization is necessary in the face of adversarial control of the
 input channel. [Familiarity]
@@ -95,116 +95,9 @@ unsafe programming language like C/C++. [Familiarity]
 3. Classify common input validation errors, and write correct input validation code. [Usage]
 5. Demonstrate the identification and graceful handling of error conditions. [Usage]
 
-## INFORMATION MANAGEMENT
-
-_cd: This is down as in ethics but will have to be covered in SW/Sys. We need a databases elective._
-
-### Information Management Concepts [1 hour]
-
-__cd: 1-6 in Ethics; 1, 6 in SW; 1-6 in Sys__
-
-1. Describe how humans gain access to information and data to support their needs. [Familiarity]
-2. Describe the advantages and disadvantages of central organizational control over data. [Assessment]
-3. Identify the careers/roles associated with information management (e.g., database administrator, data
-modeler, application developer, end-user). [Familiarity]
-4. Compare and contrast information with data and knowledge. [Assessment]
-5. Demonstrate uses of explicitly stored metadata/schema associated with data. [Usage]
-6. Identify issues of data persistence for an organization. [Familiarity]
-
-## NETWORKING AND COMMUNICATION
-
-__cd: trivially in Sys__
-
-### Introduction [1.5 hours]
-
-__cd: 1-4 in Sys__
-
-1. Articulate the organization of the Internet. [Familiarity]
-2. List and define the appropriate network terminology. [Familiarity]
-3. Describe the layered structure of a typical networked architecture. [Familiarity]
-4. Identify the different types of complexity in a network (edges, core, etc.). [Familiarity]
-
-### Networked Applications [1.5 hours]
-
-__cd: 1-3 in Sys__
-
-1. List the differences and the relations between names and addresses in a network. [Familiarity]
-2. Define the principles behind naming schemes and resource location. [Familiarity]
-3. Implement a simple client-server socket-based application. [Usage]
-
-## OPERATING SYSTEMS [4 hours]
-
-_cd: trivially in Sys_
-
-### Overview of Operating Systems
-
-__cd: 1-5 in Sys__
-
-1. Explain the objectives and functions of modern operating systems. [Familiarity]
-2. Analyze the tradeoffs inherent in operating system design. [Usage]
-3. Describe the functions of a contemporary operating system with respect to convenience, efficiency, and the
-ability to evolve. [Familiarity]
-4. Discuss networked, client-server, distributed operating systems and how they differ from single user
-operating systems. [Familiarity]
-5. Identify potential threats to operating systems and the security features design to guard against them.
-[Familiarity]
-
-### Operating System Principles
-
-__cd: 1-7 in SW__
-
-1. Explain the concept of a logical layer. [Familiarity]
-2. Explain the benefits of building abstract layers in hierarchical fashion. [Familiarity]
-3. Describe the value of APIs and middleware. [Assessment]
-4. Describe how computing resources are used by application software and managed by system software.
-[Familiarity]
-5. Contrast kernel and user mode in an operating system. [Usage]
-6. Discuss the advantages and disadvantages of using interrupt processing. [Familiarity]
-7. Explain the use of a device list and driver I/O queue. [Familiarity]
-
-## PARALLEL AND DISTRIBUTED COMPUTING
-
-_cd: This is just networks._
-
-### Parallelism Fundamentals [2 hours]
-
-__cd: 1-3 in Sys__
-
-1. Distinguish using computational resources for a faster answer from managing efficient access to a shared
-resource. [Familiarity]
-2. Distinguish multiple sufficient programming constructs for synchronization that may be interimplementable but have complementary advantages. [Familiarity]
-3. Distinguish data races from higher level races. [Familiarity]
-
-### Parallel Decomposition [1 hour]
-
-__cd: 1-2 in Sys__
-
-1. Explain why synchronization is necessary in a specific parallel program. [Usage]
-2. Identify opportunities to partition a serial program into independent parallel modules. [Familiarity]
-
-### Communication and Coordination [1 hour]
-
-__cd: 1-2 in Sys__
-
-1. Use mutual exclusion to avoid a given race condition. [Usage]
-2. Give an example of an ordering of accesses among concurrent activities (e.g., program with a data race)
-that is not sequentially consistent. [Familiarity]
-
-### Parallel Architecture [1 hour]
-
-__cd: 1 in Sys__
-
-1. Explain the differences between shared and distributed memory. [Familiarity]
-
 ## PROGRAMMING LANGUAGES
 
-_cd: This looks more like a Java CS1 syllabus than the topic of languages._ 
-	_re this, See Joel: https://www.joelonsoftware.com/2005/12/29/the-perils-of-javaschools-2/_
-_cd: Having 3 host languages in the 4 coding courses, as currently planned, will go a long way here._
-
 ### Object-Oriented Programming [4 hours]
-
-__cd: 1-3 in CS1; 1-4 in DS; 3 in Sys__
 
 1. Design and implement a class. [Usage]
 2. Use subclassing to design simple class hierarchies that allow code to be reused for distinct subclasses.
@@ -217,35 +110,26 @@ both as defining a matrix of operations and variants. [Assessment]
 
 ### Functional Programming [3 hours]
 
-__cd: 1-3 in CS1; 1-3 in DS__
-
 1. Write basic algorithms that avoid assigning to mutable state or considering reference equality. [Usage]
 2. Write useful functions that take and return other functions. [Usage]
-3. OOP.4
+3. Compare and contrast (1) the procedural/functional approach (defining a function for each operation with
+the function body providing a case for each data variant) and (2) the object-oriented approach (defining a
+class for each data variant with the class definition providing a method for each operation). Understand
+both as defining a matrix of operations and variants. [Assessment]
 
 ### Basic Type Systems [1 hour]
 
-__cd: 1-3 in CS1; 1, 3, 5-6 in DS; 1-6 in Sys; 1-6 in SW__
+_cd: Type checking is in DS currently but not a focus_
 
 1. For both a primitive and a compound type, informally describe the values that have that type. [Familiarity]
-2. For a language with a static type system, describe the operations that are forbidden statically, such as
-passing the wrong type of value to a function or method. [Familiarity]
 3. Describe examples of program errors detected by a type system. [Familiarity]
-4. For multiple programming languages, identify program properties checked statically and program
-properties checked dynamically. [Usage]
 5. Give an example program that does not type-check in a particular language and yet would have no error if
 run. [Familiarity]
 6. Use types and type-error messages to write and debug programs. [Usage]
 
 ## SOFTWARE DEVELOPMENT FUNDAMENTALS
 
-_cd: I don't understand this category. It feels like things that should be distributed above._
-_cd: Development methods alone touches on, in my view, at least four distinct concepts with total separation._
-_cd: With ~none of these landing in SW I'm renewing my call for SW to be Engineering not Development_
-
 ### Algorithms and Design [11 hours]
-
-__cd: 1-11 in CS1; 1-11 in DS; 1-4, 7, 11 in Alg__
 
 1. Discuss the importance of algorithms in the problem-solving process. [Familiarity]
 2. Discuss how a problem may be solved by multiple algorithms, each with different properties. [Familiarity]
@@ -263,7 +147,7 @@ __cd: 1-11 in CS1; 1-11 in DS; 1-4, 7, 11 in Alg__
 
 ### Fundamental Programming Concepts [10 hours]
 
-__cd: 1-9 in CS1; 1-5, 7-9 in DS; 6 in Sys; 2, 8-9 in Alg__
+_cd: Currently no file I/O planned for DS, may be in final project_
 
 1. Analyze and explain the behavior of simple programs involving the fundamental programming
 constructs variables, expressions, assignments, I/O, control constructs, functions, parameter passing,
@@ -275,14 +159,11 @@ functions. [Usage]
 5. Design, implement, test, and debug a program that uses each of the following fundamental
 programming constructs: basic computation, simple I/O, standard conditional and iterative structures,
 the definition of functions, and parameter passing. [Usage]
-6. Write a program that uses file I/O to provide persistence across multiple executions. [Usage]
 7. Choose appropriate conditional and iteration constructs for a given programming task. [Assessment]
 8. Describe the concept of recursion and give examples of its use. [Familiarity]
 9. Identify the base case and the general case of a recursively-defined problem. [Assessment]
 
 ### Fundamental Data Structures [12 hours]
-
-__cd: 1-3 in CS1; 1-7 in DS; 2, 4, 7 in Alg__
 
 1. Discuss the appropriate use of built-in data structures. [Familiarity]
 2. Describe common applications for each of the following data structures: stack, queue, priority queue, set,
@@ -297,58 +178,15 @@ stacks, queues, sets, and maps. [Usage]
 
 ### Development Methods [10 hours]
 
-__cd: 3, 7-8, 11-12 in CS1; 1, 6-8 in DS; 1-2, 4-12 in SW; 1-3, 8-10 in Sys__
+__cd: Contracts were not a focus this semester but should have been, may also do 12. program style__
 
-1. Trace the execution of a variety of code segments and write summaries of their computations. [Assessment]
-2. Explain why the creation of correct program components is important in the production of high-quality
-software. [Familiarity]
-3. Identify common coding errors that lead to insecure programs (e.g., buffer overflows, memory leaks,
-malicious code) and apply strategies for avoiding such errors. [Usage]
-4. Conduct a personal code review (focused on common coding errors) on a program component using a
-provided checklist. [Usage]
-5. Contribute to a small-team code review focused on component correctness. [Usage]
 6. Describe how a contract can be used to specify the behavior of a program component. [Familiarity]
 7. Refactor a program by identifying opportunities to apply procedural abstraction. [Usage]
 8. Apply a variety of strategies to the testing and debugging of simple programs. [Usage]
-9. Construct, execute and debug programs using a modern IDE and associated tools such as unit testing tools
-and visual debuggers. [Usage]
-10. Construct and debug programs using the standard libraries available with a chosen programming language.
-[Usage]
-11. Analyze the extent to which another programmer’s code meets documentation and programming style
-standards. [Assessment]
-12. Apply consistent documentation and program style standards that contribute to the readability and
-maintainability of software. [Usage]
 
 ## SOFTWARE ENGINEERING
 
-_cd: This is the topic set intended for coverage in SW_
-
-### Software Processes [2 hours]
-
-__cd: 1, 5 in Sys; 1-5 in SW__
-
-1. Describe how software can interact with and participate in various systems including information
-management, embedded, process control, and communications systems. [Familiarity]
-2. Describe the relative advantages and disadvantages among several major process models (e.g., waterfall,
-iterative, and agile). [Familiarity]
-3. Describe the different practices that are key components of various process models. [Familiarity]
-4. Differentiate among the phases of software development. [Familiarity]
-5. Describe how programming in the large differs from individual efforts with respect to understanding a large
-code base, code reading, understanding builds, and understanding context of changes. [Familiarity]
-
-### Requirements Engineering [1 hour]
-
-__cd: 1-3 in SW__
-
-1. List the key components of a use case or similar description of some behavior that is required for a system.
-[Familiarity]
-2. Describe how the requirements engineering process supports the elicitation and validation of behavioral
-requirements. [Familiarity]
-3. Interpret a given requirements model for a simple software system. [Familiarity]
-
 ### Software Design [3 hours]
-
-__cd: 1-4 in CS1; 1-4 in DS; 1-4 in SW__
 
 1. Articulate design principles including separation of concerns, information hiding, coupling and cohesion,
 and encapsulation. [Familiarity]
@@ -361,30 +199,9 @@ applicable to the design of a simple software system. [Familiarity]
 
 ## SYSTEM FUNDAMENTALS
 
-_cd: These aren't cleanly separable into Sys and SW since Sys will create and SW will use._
-
-### Computational Paradigms [3 hours]
-
-__cd: 1-8 in Sys__
-
-1. List commonly encountered patterns of how computations are organized. [Familiarity]
-2. Describe the basic building blocks of computers and their role in the historical development of computer
-architecture. [Familiarity]
-3. Articulate the differences between single thread vs. multiple thread, single server vs. multiple server
-models, motivated by real world examples (e.g., cooking recipes, lines for multiple teller machines and
-couples shopping for food). [Familiarity]
-4. Articulate the concept of strong vs. weak scaling, i.e., how performance is affected by scale of problem vs.
-scale of resources to solve the problem. This can be motivated by the simple, real-world examples.
-[Familiarity]
-5. Design a simple logic circuit using the fundamental building blocks of logic design. [Usage]
-6. Use tools for capture, synthesis, and simulation to evaluate a logic design. [Usage]
-7. Write a simple sequential problem and a simple parallel version of the same program. [Usage]
-8. Evaluate performance of simple sequential and parallel versions of a program with different problem sizes,
-and be able to describe the speed-ups achieved. [Assessment]
-
 ### Cross-Layer Communications [3 hours]
 
-__cd: 1-4 in DS; 1-5 in SW; 1-5 in Sys__
+_cd: Doing HW and OS but not VM in DS, only touching on errors, doing trace and single step_
 
 1. Describe how computing systems are constructed of layers upon layers, based on separation of concerns,
 with well-defined interfaces, hiding details of low layers from the higher layers. [Familiarity]
@@ -398,53 +215,7 @@ status across layers. [Usage]
 
 ### State and State Machines [6 hours]
 
-__cd: 1-2 in DS, 1-6 in Sys, 3-6 in SW__
-
 1. Describe computations as a system characyterized by a known set of configurations with transitions from
 one unique configuration (state) to another (state). [Familiarity]
 2. Describe the distinction between systems whose output is only a function of their input (Combinational)
 and those with memory/history (Sequential). [Familiarity]
-3. Describe a computer as a state machine that interprets machine instructions. [Familiarity]
-4. Explain how a program or network protocol can also be expressed as a state machine, and that alternative
-representations for the same computation can exist. [Familiarity]
-5. Develop state machine descriptions for simple problem statement solutions (e.g., traffic light sequencing,
-pattern recognizers). [Usage]
-6. Derive time-series behavior of a state machine from its state machine representation. [Assessment]
-
-### Parallelism [3 hours]
-
-__cd: 1-6 in Sys__
-
-1. For a given program, distinguish between its sequential and parallel execution, and the performance
-implications thereof. [Familiarity]
-2. Demonstrate on an execution time line that parallelism events and operations can take place simultaneously
-(i.e., at the same time). Explain how work can be performed in less elapsed time if this can be exploited.
-[Familiarity]
-3. Explain other uses of parallelism, such as for reliability/redundancy of execution. [Familiarity]
-4. Define the differences between the concepts of Instruction Parallelism, Data Parallelism, Thread
-Parallelism/Multitasking, Task/Request Parallelism. [Familiarity]
-5. Write more than one parallel program (e.g., one simple parallel program in more than one parallel
-programming paradigm; a simple parallel program that manages shared resources through synchronization
-primitives; a simple parallel program that performs simultaneous operation on partitioned data through task
-parallel (e.g., parallel search terms; a simple parallel program that performs step-by-step pipeline
-processing through message passing). [Usage]
-6. Use performance tools to measure speed-up achieved by parallel programs in terms of both problem size
-and number of resources. [Assessment]
-
-### Evaluation [3 hours]
-
-__cd: 1-4 in Sys__
-
-1. Explain how the components of system architecture contribute to improving its performance. [Familiarity]
-2. Describe Amdahl’s law and discuss its limitations. [Familiarity]
-3. Design and conduct a performance-oriented experiment. [Usage]
-4. Use software tools to profile and measure program performance. [Assessment]
-
-## SOCIAL ISSUES AND PROFESSIONAL PRACTICE
-
-_cd: I remain convinced this should be not be taught in-house._
-_cd: This all would've been covered by 451: Computer Security._
-
-* [11 hours]
-
-__cd: * in Ethics__
