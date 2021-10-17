@@ -19,7 +19,7 @@ simulations, and virtual reality. [Familiarity]
 
 ### Fundamental Concepts
 
-__cd: specific to cd@[elon,unc].CS1__
+_cd: specific to cd@[elon,unc].CS1_
 
 2. Explain in general terms how analog signals can be reasonably represented by discrete samples, for
 example, how images can be represented by pixels. [Familiarity]
