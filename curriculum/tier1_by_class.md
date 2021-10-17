@@ -1,3 +1,5 @@
+# All Courses
+
 ## ALGORITHMS
 
 _cd: these are recurring high level topics that will see regulary coverage across CS1, DS, Alg_
