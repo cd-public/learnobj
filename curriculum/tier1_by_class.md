@@ -1,8 +1,10 @@
-ALGORITHMS
+# ALGORITHMS
 
-Basic Analysis [2 hours]
+_cd: these are recurring high level topics that will see regulary coverage across CS1, DS, Alg_
 
-cd: 1-3, 6-7 in DS; 1-7 in Alg
+## Basic Analysis [2 hours]
+
+__cd: 1-3, 6-7 in DS; 1-7 in Alg__
 
 1. Explain what is meant by “best”, “expected”, and “worst” case behavior of an algorithm. [Familiarity]
 2. In the context of specific algorithms, identify the characteristics of data and/or other conditions or
@@ -14,9 +16,9 @@ assumptions that lead to different behaviors. [Assessment]
 Run algorithms on input of various sizes and compare performance. [Assessment]
 7. Give examples that illustrate time-space trade-offs of algorithms. [Familiarity]
 
-Algorithmic Strategies [5 hours]
+## Algorithmic Strategies [5 hours]
 
-cd: 1-6 in Alg
+__cd: 1-6 in Alg__
 
 1. For each of the strategies (brute-force, greedy, divide-and-conquer, recursive backtracking, and dynamic
 programming), identify a practical example to which it would apply. [Familiarity]
@@ -27,9 +29,9 @@ optimal solution. [Assessment]
 5. Use dynamic programming to solve an appropriate problem. [Usage]
 6. Determine an appropriate algorithmic approach to a problem. [Assessment]
 
-Fundamental Data Structures and Algorithms [9 hours]
+## Fundamental Data Structures and Algorithms [9 hours]
 
-cd: 1-7, 9 in DS; 1-9 in Alg
+__cd: 1-7, 9 in DS; 1-9 in Alg__
 
 1. Implement basic numerical algorithms. [Usage]
 2. Implement simple search algorithms and explain the differences in their time complexities. [Assessment]
@@ -45,26 +47,27 @@ programming time, maintainability, and the use of application-specific patterns 
 9. Demonstrate the ability to evaluate algorithms, to select from a range of possible options, to provide
 justification for that selection, and to implement the algorithm in a particular context. [Assessment]
 
-Basic Automata Computability and Complexity [3 hours]
+## Basic Automata Computability and Complexity [3 hours]
 
-cd: 1-4 in Alg
+__cd: 1-4 in Alg__
 
 1. Discuss the concept of finite state machines. [Familiarity]
 2. Design a deterministic finite state machine to accept a specified language. [Usage]
 3. Generate a regular expression to represent a specified language. [Usage]
 4. Explain why the halting problem has no algorithmic solution. [Familiarity]
 
-ARCHITECTURE AND ORGANIZATION [0 hours]
+# ARCHITECTURE AND ORGANIZATION [0 hours]
 
-cd: my electives here, this becomes mandatory with an engineering school (+ will require an EECS hire I suspect)
+_cd: my electives here, this becomes mandatory with an engineering school (+ will require an EECS hire I suspect)_
 
-COMPUTATIONAL SCIENCE 
+# COMPUTATIONAL SCIENCE 
 
-cd: I think Haiyan's electives mostly sit here so we'll have strong coverage in any case.
+_cd: I think Haiyan's electives mostly sit here so we'll have strong coverage in any case._
+_cd: These are not listed as CS1 learning objectives but I suspect we would find them there, with 3 maybe in M251_
 
-Introduction to Modeling and Simulation [1 hours]
+## Introduction to Modeling and Simulation [1 hours]
 
-cd: 1-6 in CS1; 1-6 in Alg
+__cd: 1-6 in CS1; 1-6 in Alg__
 
 1. Explain the concept of modeling and the use of abstraction that allows the use of a machine to solve a
 problem. [Familiarity]
@@ -77,13 +80,13 @@ simulations, and virtual reality. [Familiarity]
 5. Describe several approaches to validating models. [Familiarity]
 6. Create a simple display of the results of a simulation. [Usage]
 
-DISCRETE STRUCTURES
+# DISCRETE STRUCTURES
 
-cd: this is basically all in M251 and we have strong coverage in DS/Alg
+_cd: this is basically all in M251 and we have strong coverage in DS/Alg_
 
-Sets, Relations, and Functions [4 hours]
+## Sets, Relations, and Functions [4 hours]
 
-cd: Functions and relations in DS; 1-3 in M251
+__cd: Functions and relations in DS; 1-3 in M251__
 
 1. Explain with examples the basic terminology of functions, relations, and sets. [Familiarity]
 2. Perform the operations associated with sets, functions, and relations. [Usage]
