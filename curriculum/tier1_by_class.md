@@ -2,7 +2,7 @@
 
 _cd: these are recurring high level topics that will see regulary coverage across CS1, DS, Alg_
 
-## Basic Analysis [2 hours]
+### Basic Analysis [2 hours]
 
 __cd: 1-3, 6-7 in DS; 1-7 in Alg__
 
