@@ -18,7 +18,7 @@ Stretch goals:
 
 I developed these goals independently then compared against Roberts' defined goals.
 
-Rather than enumerate the considerably expanded scope, consider that there are many forward looking topics for Alg and review topics from CS1.
+Rather than enumerate the considerably expanded scope, consider that there are many forward looking topics for Alg and Sys and review topics from CS1.
 
 * AL/AS is in Alg.
 * SDF/FDS is trivially covered.
