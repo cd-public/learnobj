@@ -44,7 +44,7 @@ As a rule, I tried to prefix commentary with 'cd: ' and best effort description 
 "Engineering Sequence"
 * CS351 Computer (and Network) Engineering
 * CS352 Software Engineering
-- OR - "Programming Sequence"
+-OR- "Programming Sequence"
 * CS351 Systems Programming
 * CS352 Software Programming
 
