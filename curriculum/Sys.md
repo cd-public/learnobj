@@ -221,7 +221,7 @@ status across layers. [Usage]
 
 ### State and State Machines [6 hours]
 
-1. Describe computations as a system characyterized by a known set of configurations with transitions from
+1. Describe computations as a system characterized by a known set of configurations with transitions from
 one unique configuration (state) to another (state). [Familiarity]
 2. Describe the distinction between systems whose output is only a function of their input (Combinational)
 and those with memory/history (Sequential). [Familiarity]
