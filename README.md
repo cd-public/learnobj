@@ -17,6 +17,10 @@ Each file includes CS2013 learning objects after my high level summary of conten
 
 As a rule, I tried to prefix commentary with 'cd: ' and best effort description was unprefixed.
 
+## Syllabi
+
+Syllabi directory gives sample learning objectives formulated for single page syllabus presentation under the Jameson Watts model of approximately 5 high level and 15 total objectives that can be directly referenced within course material.
+
 ## cd: Discussion questions
 * (1) How much should we tailor coverage to this? 
 	* E.G. I think AR matters more than FSMs, max flow/linear programming more than formal Big O, NP reduction more than counting. 
