@@ -7,7 +7,7 @@ Upon completion of this course, students will be able to:
 1. Save, retrieve, and remove data from a linked list using traversal
 2. Implement queues and stacks using linked lists as well as built-in list types
 3. Sort data with linked lists, binary search trees, or heaps.
-4. Save, retrieve, and remove data from a hash table usingh hashing functions
+4. Save, retrieve, and remove data from a hash table using hashing functions
 
 ### Theory
 
