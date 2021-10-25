@@ -2,7 +2,7 @@
 
 Upon completion of this course, students will be able to:
 
-### Recursive Data Structures & Relevant Methods
+### Data Structures
 
 1. Save, retrieve, and remove data from a linked list using traversal
 2. Implement queues and stacks using linked lists as well as built-in list types
