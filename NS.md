@@ -1,4 +1,4 @@
-# Computer & Network Engineering
+# Networks and Systems
 
 Upon completion of this course, students will be able to:
 
