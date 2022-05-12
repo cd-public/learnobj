@@ -1,5 +1,17 @@
 # Networks and Systems
 
+## Description
+
+Networks & systems form the boundry between abstractions firmly rooted in language and
+deeper questions in computing regarding the implementation of thinking machines at engineer-
+ing and physical levels. This course will prepare computer scientists to reason at and across this
+abstraction boundry to more fully embrace the power of computation.
+Students will learn low level languages of C and assembly, use command line tools to study these
+languages, use features of the operating system including parallelism and networking, and learn
+how to make changes to operating systems.
+
+## Coursework
+
 Upon completion of this course, students will be able to:
 
 ### Networking
