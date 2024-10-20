@@ -56,30 +56,6 @@ modeler, application developer, end-user). [Familiarity]
 2. Define the principles behind naming schemes and resource location. [Familiarity]
 3. Implement a simple client-server socket-based application. [Usage]
 
-## OPERATING SYSTEMS [4 hours]
-
-### Overview of Operating Systems
-
-1. Explain the objectives and functions of modern operating systems. [Familiarity]
-2. Analyze the tradeoffs inherent in operating system design. [Usage]
-3. Describe the functions of a contemporary operating system with respect to convenience, efficiency, and the
-ability to evolve. [Familiarity]
-4. Discuss networked, client-server, distributed operating systems and how they differ from single user
-operating systems. [Familiarity]
-5. Identify potential threats to operating systems and the security features design to guard against them.
-[Familiarity]
-
-### Operating System Principles
-
-1. Explain the concept of a logical layer. [Familiarity]
-2. Explain the benefits of building abstract layers in hierarchical fashion. [Familiarity]
-3. Describe the value of APIs and middleware. [Assessment]
-4. Describe how computing resources are used by application software and managed by system software.
-[Familiarity]
-5. Contrast kernel and user mode in an operating system. [Usage]
-6. Discuss the advantages and disadvantages of using interrupt processing. [Familiarity]
-7. Explain the use of a device list and driver I/O queue. [Familiarity]
-
 ## PARALLEL AND DISTRIBUTED COMPUTING
 
 ### Parallelism Fundamentals [2 hours]
@@ -106,10 +82,6 @@ that is not sequentially consistent. [Familiarity]
 
 ## PROGRAMMING LANGUAGES
 
-### Object-Oriented Programming [4 hours]
-
-3. Correctly reason about control flow in a program using dynamic dispatch. [Usage]
-
 ### Basic Type Systems [1 hour]
 
 1. For both a primitive and a compound type, informally describe the values that have that type. [Familiarity]
@@ -122,22 +94,6 @@ properties checked dynamically. [Usage]
 run. [Familiarity]
 6. Use types and type-error messages to write and debug programs. [Usage]
 
-## SOFTWARE DEVELOPMENT FUNDAMENTALS
-
-### Fundamental Programming Concepts [10 hours]
-
-6. Write a program that uses file I/O to provide persistence across multiple executions. [Usage]
-
-### Development Methods [10 hours]
-
-_cd: gdb module planned for Sys_
-
-8. Apply a variety of strategies to the testing and debugging of simple programs. [Usage]
-9. Construct, execute and debug programs using a modern IDE and associated tools such as unit testing tools
-and visual debuggers. [Usage]
-10. Construct and debug programs using the standard libraries available with a chosen programming language.
-[Usage]
-
 ## SOFTWARE ENGINEERING
 
 ### Software Processes [2 hours]
@@ -146,8 +102,6 @@ and visual debuggers. [Usage]
 management, embedded, process control, and communications systems. [Familiarity]
 5. Describe how programming in the large differs from individual efforts with respect to understanding a large
 code base, code reading, understanding builds, and understanding context of changes. [Familiarity]
-
-### Software Design [3 hours]
 
 ## SYSTEM FUNDAMENTALS
 
@@ -162,8 +116,6 @@ couples shopping for food). [Familiarity]
 4. Articulate the concept of strong vs. weak scaling, i.e., how performance is affected by scale of problem vs.
 scale of resources to solve the problem. This can be motivated by the simple, real-world examples.
 [Familiarity]
-5. Design a simple logic circuit using the fundamental building blocks of logic design. [Usage]
-6. Use tools for capture, synthesis, and simulation to evaluate a logic design. [Usage]
 7. Write a simple sequential problem and a simple parallel version of the same program. [Usage]
 8. Evaluate performance of simple sequential and parallel versions of a program with different problem sizes,
 and be able to describe the speed-ups achieved. [Assessment]
@@ -189,9 +141,6 @@ and those with memory/history (Sequential). [Familiarity]
 3. Describe a computer as a state machine that interprets machine instructions. [Familiarity]
 4. Explain how a program or network protocol can also be expressed as a state machine, and that alternative
 representations for the same computation can exist. [Familiarity]
-5. Develop state machine descriptions for simple problem statement solutions (e.g., traffic light sequencing,
-pattern recognizers). [Usage]
-6. Derive time-series behavior of a state machine from its state machine representation. [Assessment]
 
 ### Parallelism [3 hours]
 
@@ -201,19 +150,8 @@ implications thereof. [Familiarity]
 (i.e., at the same time). Explain how work can be performed in less elapsed time if this can be exploited.
 [Familiarity]
 3. Explain other uses of parallelism, such as for reliability/redundancy of execution. [Familiarity]
-4. Define the differences between the concepts of Instruction Parallelism, Data Parallelism, Thread
-Parallelism/Multitasking, Task/Request Parallelism. [Familiarity]
 5. Write more than one parallel program (e.g., one simple parallel program in more than one parallel
 programming paradigm; a simple parallel program that manages shared resources through synchronization
 primitives; a simple parallel program that performs simultaneous operation on partitioned data through task
 parallel (e.g., parallel search terms; a simple parallel program that performs step-by-step pipeline
 processing through message passing). [Usage]
-6. Use performance tools to measure speed-up achieved by parallel programs in terms of both problem size
-and number of resources. [Assessment]
-
-### Evaluation [3 hours]
-
-1. Explain how the components of system architecture contribute to improving its performance. [Familiarity]
-2. Describe Amdahl’s law and discuss its limitations. [Familiarity]
-3. Design and conduct a performance-oriented experiment. [Usage]
-4. Use software tools to profile and measure program performance. [Assessment]
