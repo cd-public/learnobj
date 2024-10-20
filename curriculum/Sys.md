@@ -1,31 +1,3 @@
-# Networks & Systems
-
-### cd: High Level
-
-* Use the command line, including gdb, on Linux.
-* Send and receive packets between processes and systems using C.
-* Handle an exception in C.
-* Patch the kernel using C.
-* Decompile C on RISC.
-
-Stretch goals:
-
-* Implement a hashing standard, such as RSA.
-* Perform a privilege escalation attack on an OS.
-
-### cd: vs Roberts
-
-I developed these goals independently then compared against Roberts' defined goals.
-
-* (+) INFORMATION ASSURANCE AND SECURITY
-  * Necessary for motivating network and OS topics.
-* (+) INFORMATION MANAGEMENT
-  * Necessary for contextualizing within careers.
-* (+) Programming Languages
-  * Necessary to discuss C and MIPS.
-* (+) SOFTWARE DEVELOPMENT FUNDAMENTALS
-  * I want to have a debugger module on system side.
- 
 ## INFORMATION ASSURANCE AND SECURITY
 
 ### Foundational Concepts in Security [1 hour]
